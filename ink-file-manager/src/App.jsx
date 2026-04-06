@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { Box, Text } from 'ink';
 import SelectInput from 'ink-select-input';
-import ListFiles from './screens/ListFiles.jsx';
+import ListFiles from './screens/ListFiles.js';
 import AddFile from './screens/AddFile.jsx';
-import RemoveFile from './screens/RemoveFile.jsx';
-import RenameFile from './screens/RenameFile.jsx';
+import RemoveFile from './screens/RemoveFile.js';
+import RenameFile from './screens/RenameFile.js';
 
 const MENU_ITEMS = [
   { label: '📂  Browse Files',         value: 'list'   },

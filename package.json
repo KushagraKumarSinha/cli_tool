@@ -4,8 +4,8 @@
   "description": "A React Ink CLI file manager for any directory",
   "type": "module",
   "scripts": {
-    "start": "tsx src/index.jsx",
-    "dev": "tsx src/index.jsx"
+    "start": "tsx ink-file-manager/src/index.jsx",
+    "dev": "tsx ink-file-manager/src/index.jsx"
   },
   "dependencies": {
     "ink": "^6.8.0",
