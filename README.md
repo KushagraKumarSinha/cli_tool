@@ -46,8 +46,8 @@ A fully interactive, terminal-based file manager built with **React Ink** — me
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ink-file-manager.git
-cd ink-file-manager
+git clone https://github.com/KushagraKumarSinha/cli_tool.git
+cd cli_tool
 
 # 2. Install dependencies
 npm install
