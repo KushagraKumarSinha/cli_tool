@@ -1,4 +1,4 @@
-# ⚡ Ink File Manager
+# Ink File Manager
 
 A fully interactive, terminal-based file manager built with **React Ink** — meaning you write actual React components that render in your CLI instead of a browser. Browse directories, create files and folders, delete them, rename them — all without leaving your terminal.
 
@@ -6,10 +6,10 @@ A fully interactive, terminal-based file manager built with **React Ink** — me
 
 ---
 
-## 📸 Preview
+## Preview
 
 ```
- ⚡  Ink File Manager  →  /Users/you/my-project
+ Ink File Manager  →  /Users/you/my-project
 
  What would you like to do?
 
@@ -22,7 +22,7 @@ A fully interactive, terminal-based file manager built with **React Ink** — me
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Package | Purpose |
 |---|---|
@@ -35,7 +35,7 @@ A fully interactive, terminal-based file manager built with **React Ink** — me
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ npm start -- ~/code/my-app
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 ink-file-manager/
@@ -104,7 +104,7 @@ ink-file-manager/
 
 ---
 
-## 🔍 How It Works — Concept by Concept
+## How It Works — Concept by Concept
 
 This section explains every key concept used in the project so you can rebuild it from scratch.
 
@@ -427,7 +427,7 @@ const handleRename = (val) => {
 
 ---
 
-## ⌨️ Keyboard Reference
+## Keyboard Reference
 
 | Key | Action |
 |---|---|
@@ -441,7 +441,7 @@ const handleRename = (val) => {
 
 ---
 
-## 🧩 Adding a New Screen
+## Adding a New Screen
 
 Here's the pattern to follow if you want to add a new feature (e.g. a **Move** screen):
 
@@ -487,7 +487,7 @@ That's it — the router picks it up automatically.
 
 ---
 
-## 🐛 Known Issues
+## Known Issues
 
 | Issue | Detail |
 |---|---|
@@ -496,7 +496,7 @@ That's it — the router picks it up automatically.
 
 ---
 
-## 💡 Ideas for Future Features
+## Ideas for Future Features
 
 - [ ] **Move / Copy files** — select a file, type a destination path
 - [ ] **File content preview** — peek at text file contents before acting on them
@@ -509,7 +509,7 @@ That's it — the router picks it up automatically.
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 If you want to rebuild this yourself or go deeper:
 
