@@ -1,4 +1,4 @@
-# Ink File Manager
+# CLI Tool
 
 A fully interactive, terminal-based file manager built with **React Ink** — meaning you write actual React components that render in your CLI instead of a browser. Browse directories, create files and folders, delete them, rename them — all without leaving your terminal.
 
